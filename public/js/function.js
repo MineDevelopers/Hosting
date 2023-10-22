@@ -3,7 +3,7 @@
 //mc.your-site.com
 //mc.your-site.com:16754
 
-var ipadress = 'mc.your-site.com'
+var ipadress = 'your-site.com'
 
 
 //don't touch this
